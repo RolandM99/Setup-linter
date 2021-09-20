@@ -15,7 +15,7 @@ In this repo no complex coding is required, our goal here is to master all of th
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://rolandm99.github.io/Setup-linter/)
 
 
 ## Getting Started
