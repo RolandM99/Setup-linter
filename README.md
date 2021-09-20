@@ -1,18 +1,17 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Microverse-Project1
 
-> One paragraph statement about the project.
+> Project to be familiarized with Linters and Gitflow. 
 
-![screenshot](./app_screenshot.png)
+![screenshot](./template-screenshot.PNG)
 
-Additional description about the project and its features.
+In this repo no complex coding is required, our goal here is to master all of the tools and best practices we learn about setup a linter for Html and CSS file and Git/Github.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages: HTML/CSS
+- Technologies used: Linter/Git/Github
 
 ## Live Demo
 
@@ -27,33 +26,20 @@ Additional description about the project and its features.
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisites : Knowloge about basic html,css, Git and Github
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+1. First clone the project $ git clone https://github.com/ahzia/HTML-Signup-Form
+2. Then open index.html in your browser
+3. [optional] You can even fork the project
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Roland Manful Mweze**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [RolandM99](https://github.com/RolandM99)
+- Twitter: [@Manfulmwez](https://twitter.com/ManfulMwez)
+- LinkedIn: [Roland N. NWEZE](https://www.linkedin.com/in/roland-n-mweze-8b1045189/)
 
 ## 🤝 Contributing
 
